@@ -1,0 +1,9 @@
+X-Salada;10
+X-Tudo;10
+X-Bacon;10
+X-CalaBresa;5
+Bauru;5
+Hamburger;12
+XBurger;15
+TriploBurger;13
+Suco de Laranja;3
